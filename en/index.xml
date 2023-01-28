@@ -6,7 +6,7 @@
     <description>Recent content on Peace &amp; Love</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Jan 2023 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 16:01:23 +0800</lastBuildDate>
     
     <atom:link href="https://fowhg.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,37 +17,51 @@
       <pubDate>Sat, 28 Jan 2023 00:38:52 +0800</pubDate>
       
       <guid>https://fowhg.github.io/en/about/</guid>
-      <description>关于此网站 是Sara和Nope在互联网中的一块根据地。在充分保留自由创作的基础上，进行最小程度的曝光和内容传播。 写作是最小单位的自由。 关于S</description>
+      <description>关于此网站 是Sara和Wade在互联网中的一块革命根据地。希望能在充分保留自由创作的基础上，进行最大程度的自我建设。 写作是最小单位的自由。 关</description>
       <content:encoded><![CDATA[<h2 id="关于此网站">关于此网站</h2>
-<p>是Sara和Nope在互联网中的一块根据地。在充分保留自由创作的基础上，进行最小程度的曝光和内容传播。</p>
+<p>是Sara和Wade在互联网中的一块<del>革命</del>根据地。希望能在充分保留自由创作的基础上，进行最大程度的自我建设。</p>
 <p>写作是最小单位的自由。</p>
 <h2 id="关于sara">关于Sara</h2>
 <p>喜欢看meme和小众/创意/猎奇的图片，混迹于<a href="https://www.pinterest.com/clsrman/">Pinterest</a>。</p>
 <p>21年5月入坑明日方舟，也玩moba的射手路。</p>
 <p>微信读书重度用户。兴趣所在：存在主义哲学、心理治疗、文笔好的or大女主言情、科普。</p>
 <p>属于互联网海盗党。</p>
-<h2 id="关于nope">关于nope</h2>
+<h2 id="关于wade">关于Wade</h2>
 <p>追求随心而动。</p>
+<p>(笔给你！你来写)</p>
 ]]></content:encoded>
     </item>
     
     <item>
-      <title>我的老弟</title>
-      <link>https://fowhg.github.io/en/2023/01/27/%E6%88%91%E7%9A%84%E8%80%81%E5%BC%9F/</link>
-      <pubDate>Fri, 27 Jan 2023 16:01:23 +0800</pubDate>
+      <title>建站缘由</title>
+      <link>https://fowhg.github.io/en/2023/01/25/%E5%BB%BA%E7%AB%99%E7%BC%98%E7%94%B1/</link>
+      <pubDate>Wed, 25 Jan 2023 16:01:23 +0800</pubDate>
       
-      <guid>https://fowhg.github.io/en/2023/01/27/%E6%88%91%E7%9A%84%E8%80%81%E5%BC%9F/</guid>
-      <description>&lt;p&gt;这是一个给老弟的网页。嘿嘿&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>这是一个给老弟的网页。嘿嘿</p>
-<h2 id="我的老弟很棒">我的老弟很棒</h2>
-<p>他笑起来很好看。视力很好哦（不过可能有点散光）
-还会开模拟飞机，学工程的东西都好快，动手能力很强。还会编织绳子！自己摸索的会的。我真的太崇拜老弟的动手能力了。</p>
-<h3 id="情商也很高">情商也很高</h3>
-<p>对很多事情都有自己的思考，能和人静下心来沟通，有共情的能力。</p>
-<h4 id="不过">不过</h4>
-<p>学习自驱力可能没那么强（忧愁）。但是老弟还是很棒的。
-希望老弟身体可以更好一些，（~~然后更愿意当我的模特~~ ）健健康康的。</p>
-<p>![呼呼]</p>]]></content:encoded>
+      <guid>https://fowhg.github.io/en/2023/01/25/%E5%BB%BA%E7%AB%99%E7%BC%98%E7%94%B1/</guid>
+      <description>&lt;p&gt;有可靠的平台＋门槛不高是最主要的原因。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>有可靠的平台＋门槛不高是最主要的原因。</p>
+<h2 id="平台可靠门槛不高">平台可靠+门槛不高</h2>
+<p>我<del>盲目</del>信赖GitHub这个平台，它还可以让我绕开备案（需要报上自己的住址和人脸信息）。不放心用豆瓣记录书影音和日常，因为各大平台或多或少都处在审核危机中，会动不动进行自我阉割<del>说不定哪天就会被审核搞掉</del>。</p>
+<p>在某处看到说程序员大部分都使用过GitHub建立个人网站。我就心想：那应该不难吧。（wordpress门槛也不高，但是我当时没遇到喜欢的模板）</p>
+<h2 id="周年礼物">周年礼物</h2>
+<p>本来是想做一个有点游戏互动的，类似<a href="https://cook.yunyoujun.cn/">这个</a>的网站，但是发现好像不是我能驾驭的了，就先从简单的开始吧，动态的太难的话，就弄静态的。</p>
+<p>先做出来，完成度高比半途而废的半成品更有诚意。💫</p>
+<h2 id="给自己提供价值感">给自己提供价值感</h2>
+<p>就像一个很小众的用户名能让我自我定位稳固了很多，弄一个独立网站就是在养成一块儿网络自留地的感觉。我还很在意自己的学习能力，这件事情也能让我感受到这个。</p>
+<p>还有，我其实会比较容易被养成类游戏给吸引？哪怕是玩MOBA都很在意我特别喜欢的英雄的熟练度和皮肤收集。建站也像是在进行养成。</p>
+<h2 id="在线展示">在线展示</h2>
+<p>跟本地记录和知识管理不同，三个行为各有侧重点。</p>
+<h3 id="本地记录">本地记录</h3>
+<p>其实用印象笔记或者备忘录写日记，已经能够对自己进行日常应急式快速的切片式处理，从而稳定“我是一个人，我存在在这个世界上，而且我能感受到我的存在和存在的价值”的状态。相当于是递进般自我复制，在差异中进行重复，重复差异，重复重复这个过程。这过程是越快越好，特别是记录灵感，如果不马上记录下来，灵感就稍纵即逝。哪怕是痛苦的事情也一样，只有没有任何心理负担和操作难度的把这些快速记录下来，我才能真正承担起发生在自己身上的事情。</p>
+<h3 id="知识管理">知识管理</h3>
+<p>我现在用zotero进行知识管理，它的浏览器插件可以很方便的收集书籍和网页等条目。桌面端加载很快（飞快，超级快），排版也十分简洁和密集<del>有助于我一目十行的寻找信息</del>。在笔记部分，除了文字编辑功能，还提供了简单的插入图片功能，这对我来说，暂时足够了。</p>
+<p>在使用zotero之前，我从印象笔记举家迁移到了notion，notion相当于集成式的markdown编辑器，因为block功能很好用，很多小图标很可爱，所以在很长一段时间，是我的心头好💜。可惜后面加载不太行，所以慢慢不怎么用了。<del>说不定就是打开软件和做笔记的速度慢了那么几秒的原因，我就放弃收录某本书然后让我错过这本书了呢！哼</del></p>
+<p>而且我不需要给书加封面和评分，notion提供的这个功能反而增加了信息负担。如果要标出阅读优先级的话，直接就在标题简单的打个❗❗就行了。👁‍🗨真的需要去看的话，自然会去看，不然就跟todolist一样消耗精力。而且看书最重要的是每个领域不同的书之间体系的对比和自己的知识体系完善吧。别执着于对于某一本书的阅读呀。</p>
+<p>但是以上两个都没有展示功能，哪怕是平行世界app都好歹有个被陌生人发现然后产生互动的可能性呢。所以就有了👇这个需求</p>
+<h3 id="在线展示自己">在线展示自己</h3>
+<p>在个人网站和门户网站之间选择，失去门户网站的巨大流量的同时，能获得掌控感和安全感：前者是指对自己内容和数据的完全掌控感，不怕被封号或者无法迁移数据；后者是指不跟跟门户网站上面其他的入驻者进行频繁比较的安全感。</p>
+<p>暂时在这里结尾啦。</p>
+<p>来自Sara的问候。</p>]]></content:encoded>
     </item>
     
     <item>
@@ -62,92 +76,13 @@
     </item>
     
     <item>
-      <title>Note 2</title>
-      <link>https://fowhg.github.io/en/2018/03/04/note-2/</link>
-      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://fowhg.github.io/en/2018/03/04/note-2/</guid>
-      <description>This is a simple note.</description>
-      <content:encoded><![CDATA[<p>This is a simple note.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Shortcodes Preview</title>
-      <link>https://fowhg.github.io/en/2018/03/04/shortcodes-preview/</link>
-      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://fowhg.github.io/en/2018/03/04/shortcodes-preview/</guid>
-      <description>Twiiter Google Map Figure GlobeHighlight for Shells # test echo test # just a test echo hello world</description>
-      <content:encoded><![CDATA[<h2 id="twiiter">Twiiter</h2>
-
-<h2 id="google-map">Google Map</h2>
-<div class="embed googlemaps">
-	<iframe
-		src="https://mapsengine.google.com/map/embed?mid=17_6iCOL6LkRjIFGPKmXBxjsvbBc"
-		frameborder="0"
-		scrolling="no"
-        width="100%"
-        height="400"
-        >
-	</iframe>
-</div>
-
-<h2 id="figure">Figure</h2>
-
-<link rel="stylesheet" href="https://fowhg.github.io/css/hugo-easy-gallery.css" />
-<div class="box aligncenter" style="max-width:300px;">
-  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <div class="img">
-      <img  itemprop="thumbnail" src="/images/globe.svg" alt="Globe" />
-    </div>
-    
-      <figcaption>
-          <p><strong>Globe</strong>
-              
-          </p>
-      </figcaption>
-  </figure>
-</div>
-
-<h2 id="highlight-for-shells">Highlight for Shells</h2>
-<div class="sh-highlight"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># test</span>
-</span></span><span class="line hl"><span class="cl"><span class="nb">echo</span> <span class="nb">test</span>
-</span></span><span class="line"><span class="cl"><span class="c1"># just a test</span>
-</span></span><span class="line hl"><span class="cl"><span class="nb">echo</span> hello world</span></span></code></pre></div></div>
-
-]]></content:encoded>
-    </item>
-    
-    <item>
       <title>lalala</title>
       <link>https://fowhg.github.io/en/2018/03/03/lalala/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://fowhg.github.io/en/2018/03/03/lalala/</guid>
-      <description>一周年小宋版随笔文隆重出世！（尝试贴一条简笔花纸胶纸ing） ​ 每个人都不会完美，庆幸你曾经对我说的“只要你不离开我，我就不会走。”这句话给了</description>
-      <content:encoded><![CDATA[<p><strong>一周年小宋版随笔文隆重出世！</strong>（尝试贴一条简笔花纸胶纸ing）</p>
-<p>​ 每个人都不会完美，庆幸你曾经对我说的“只要你不离开我，我就不会走。”这句话给了我信心，你让我知道，除了我在努力接纳自己之外，你也在努力接纳我。</p>
-<p>​ 一段关系是双方的，而且面对亲近的人，一般都不会只有一种感情，比如我依恋老爸的抱抱和他对我的爱护，怜惜他郁郁不得志和如今不够健康的身体，厌恶他对老弟的频频说教和语言威胁；喜欢妈咪的干练和好厨艺，心疼她为我们一家人奋斗了十几年却仍然没有足够的时间和金钱去她喜欢的法国度假，厌恶她有时尖锐又恶毒话语；喜欢老弟平时跟我像小孩子一样玩耍，为他不得不呆在家里接受老爸和妈妈的控制而感到无奈，为无法改变他易怒的性格而感到无奈。</p>
-<p>​ 对于你，我是喜欢你遇事不乱和开明的态度，惊讶于你细腻的情感和自我疗伤的速度，心疼那些给你带来伤口的过去，讨厌有时候你会第一时间给某些事情下的负面评价。感情激烈的冲突中，我们的关系也在变化，我容易想多也容易糊涂。终于，有一个让我理清头绪的契机出现了，让我醒悟到你对我重要性，是一个多月之前那场争执，你说想说什么就说清楚一旦说明白了，就不能再回头了。一种巨大的、攥我心脏般难受的感觉笼罩了我（后面我知道这是我在害怕真的失去你），这逼迫我深刻的反思了自己尚存的缺陷根源。我为自己曾经的自大、迁怒并语言中伤你、自卑、炫耀等等不够纯粹的观念和行为感到抱歉，我尚未成为那种看破尘世、坚毅奋进却也能童稚乐观的人，但是俺在努力了。</p>
-<p>​ 要给我信心哦（叉腰）我的生活还是很有希望哒，我也有信心哒！</p>
-<p>​ 我想过，我俩坐在草地上喂肥肥的飞不动的鸭子，相拥着在楼顶惬意看夕阳，在楼梯上玩剪刀石头布谁赢了就跳一台阶……一切长久的关系最终都可以回归温柔，我可以用我的小眼睛给你传达我的心意哒</p>
-<p>​ (づ￣3￣)づ╭❤～</p>
-<p>​ 得到一寸的美好就有进一寸的欢喜。之前我因为了解不多，所以质疑你感情的纯粹，现在陪伴的时间渐长，才鄱然醒悟你对我的意义非凡，若是我们重新遇见，我们还是能发展到很好的关系。</p>
-<p>​ 虽然我们会遇到各种各样的困难，一段关系总是会混入杂乱的因素，但是无论如何我们都要怀抱着希望啊。</p>
-<p>​ (＾－＾)V，给你我的小爪爪。</p>
-<p>PS：我今年2月29日的时候开启了我的【每日幸福拓印小本本】，每天纪录自己几件开心/有意义的事情，一直记到了现在。你也可以考虑记~到时候我们可以交换看着玩。话说，我电脑打字的时候，才知道拓印的拓是读tà，我之前读的是tuò，丢脸.jpg</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Note 1</title>
-      <link>https://fowhg.github.io/en/2018/03/03/note-1/</link>
-      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://fowhg.github.io/en/2018/03/03/note-1/</guid>
-      <description>This is a simple note.</description>
-      <content:encoded><![CDATA[<p>This is a simple note.</p>
+      <description>哈哈 上当了吧</description>
+      <content:encoded><![CDATA[<p>哈哈 上当了吧</p>
 ]]></content:encoded>
     </item>
     
