@@ -6,7 +6,25 @@
     <description>Recent content in tutorial on Peace &amp; Love</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jan 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://fowhg.github.io/en/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 06:01:23 +0800</lastBuildDate><atom:link href="https://fowhg.github.io/en/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网站修缮</title>
+      <link>https://fowhg.github.io/en/2023/01/29/%E7%BD%91%E7%AB%99%E4%BF%AE%E7%BC%AE/</link>
+      <pubDate>Sun, 29 Jan 2023 06:01:23 +0800</pubDate>
+      
+      <guid>https://fowhg.github.io/en/2023/01/29/%E7%BD%91%E7%AB%99%E4%BF%AE%E7%BC%AE/</guid>
+      <description>没想到我不小心给私钥设置了密码，以至于每次git push origin main的时候都要我输入密码。 然后我就拼命搜索解决方案。后面发现我之前生成私钥的时候根本</description>
+    </item>
+    
+    <item>
+      <title>md 语法</title>
+      <link>https://fowhg.github.io/en/2023/01/28/md-%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Sat, 28 Jan 2023 06:01:23 +0800</pubDate>
+      
+      <guid>https://fowhg.github.io/en/2023/01/28/md-%E8%AF%AD%E6%B3%95/</guid>
+      <description>Code blocks text code blocks text code blocks text code blocks text code blocks Highlighted Code Blocks print(&amp;#39;hello world&amp;#39;) Blockquotes This is a blockquote with two paragraphs. This is first paragraph. This is second pragraph. Lists Red Green Blue Red Green Blue A B C D E F Task List a task list item list syntax required normal formatting incomplete completed Formatted Texts Name Markdown HTML tag Emphasis *Emphasis* &amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;</description>
+    </item>
+    
     <item>
       <title>建站缘由</title>
       <link>https://fowhg.github.io/en/2023/01/25/%E5%BB%BA%E7%AB%99%E7%BC%98%E7%94%B1/</link>

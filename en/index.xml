@@ -6,7 +6,7 @@
     <description>Recent content on Peace &amp; Love</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jan 2023 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2023 06:01:23 +0800</lastBuildDate>
     
     <atom:link href="https://fowhg.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,164 @@
 <h2 id="关于wade">关于Wade</h2>
 <p>追求随心而动。</p>
 <p>(笔给你！你来写)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>网站修缮</title>
+      <link>https://fowhg.github.io/en/2023/01/29/%E7%BD%91%E7%AB%99%E4%BF%AE%E7%BC%AE/</link>
+      <pubDate>Sun, 29 Jan 2023 06:01:23 +0800</pubDate>
+      
+      <guid>https://fowhg.github.io/en/2023/01/29/%E7%BD%91%E7%AB%99%E4%BF%AE%E7%BC%AE/</guid>
+      <description>没想到我不小心给私钥设置了密码，以至于每次git push origin main的时候都要我输入密码。 然后我就拼命搜索解决方案。后面发现我之前生成私钥的时候根本</description>
+      <content:encoded><![CDATA[<p>没想到我不小心给私钥设置了密码，以至于每次git push origin main的时候都要我输入密码。
+然后我就拼命搜索解决方案。后面发现我之前生成私钥的时候根本就没有ed_rsa文件，只有ed_255199的文件。所以根本只能用别的办法来改我私钥的密码了。找啊找啊，终于碰上了<a href="https://www.cyberciti.biz/faq/howto-ssh-changing-passphrase/">一个看上去可行的方法</a>。</p>
+<pre tabindex="0"><code class="language-git" data-lang="git">ssh-keygen -f id_ed25519 -p
+</code></pre><p>然后就出现了</p>
+<pre tabindex="0"><code class="language-git" data-lang="git">$ ssh-keygen -f id_ed25519 -p
+Enter old passphrase:
+Key has comment &#39;clsrman@gmail.com&#39;
+Enter new passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved with the new passphrase.)
+</code></pre><p>应该就没问题了吧！啊！太难了。</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>md 语法</title>
+      <link>https://fowhg.github.io/en/2023/01/28/md-%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Sat, 28 Jan 2023 06:01:23 +0800</pubDate>
+      
+      <guid>https://fowhg.github.io/en/2023/01/28/md-%E8%AF%AD%E6%B3%95/</guid>
+      <description>Code blocks text code blocks text code blocks text code blocks text code blocks Highlighted Code Blocks print(&amp;#39;hello world&amp;#39;) Blockquotes This is a blockquote with two paragraphs. This is first paragraph. This is second pragraph. Lists Red Green Blue Red Green Blue A B C D E F Task List a task list item list syntax required normal formatting incomplete completed Formatted Texts Name Markdown HTML tag Emphasis *Emphasis* &amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;</description>
+      <content:encoded><![CDATA[<h2 id="code-blocks">Code blocks</h2>
+<pre><code>text code blocks
+text code blocks
+text code blocks
+text code blocks
+</code></pre>
+<h2 id="highlighted-code-blocks">Highlighted Code Blocks</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s1">&#39;hello world&#39;</span><span class="p">)</span>
+</span></span></code></pre></div><h2 id="blockquotes">Blockquotes</h2>
+<blockquote>
+<p>This is a blockquote with two paragraphs. This is first paragraph.</p>
+<p>This is second pragraph.</p>
+</blockquote>
+<h2 id="lists">Lists</h2>
+<ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+<ol>
+<li>Red</li>
+<li>Green</li>
+<li>Blue
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C
+<ol>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ol>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="task-list">Task List</h2>
+<ul>
+<li><input disabled="" type="checkbox"> a task list item</li>
+<li><input disabled="" type="checkbox"> list syntax <del>required</del></li>
+<li><input disabled="" type="checkbox"> normal <strong>formatting</strong></li>
+<li><input disabled="" type="checkbox"> incomplete</li>
+<li><input checked="" disabled="" type="checkbox"> completed</li>
+</ul>
+<h2 id="formatted-texts">Formatted Texts</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Markdown</th>
+<th>HTML tag</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Emphasis</em></td>
+<td>*Emphasis*</td>
+<td><code>&lt;em&gt;&lt;/em&gt;</code></td>
+</tr>
+<tr>
+<td><strong>Strong</strong></td>
+<td>**Strong**</td>
+<td><code>&lt;strong&gt;&lt;/strong&gt;</code></td>
+</tr>
+<tr>
+<td><code>code</code></td>
+<td>`code`</td>
+<td><code>&lt;code&gt;&lt;/code&gt;</code></td>
+</tr>
+<tr>
+<td><del>Strikethrough</del></td>
+<td>~~Strikethrough~~</td>
+<td><code>&lt;del&gt;&lt;/del</code></td>
+</tr>
+<tr>
+<td><strong>Underline</strong></td>
+<td>__underline__</td>
+<td><code>&lt;u&gt;&lt;/u&gt;</code></td>
+</tr>
+<tr>
+<td><!-- raw HTML omitted -->Key<!-- raw HTML omitted --></td>
+<td>&lt;kbd&gt;Key&lt;/kbd&gt;</td>
+<td><code>&lt;kbd&gt;&lt;/kbd&gt;</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="tables">Tables</h2>
+<table>
+<thead>
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a</td>
+<td>b</td>
+<td>c</td>
+</tr>
+<tr>
+<td>d</td>
+<td>e</td>
+<td>f</td>
+</tr>
+</tbody>
+</table>
+<h2 id="footnotes">Footnotes</h2>
+<p>You can create footnotes like this<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<h2 id="horizontal-rules">Horizontal Rules</h2>
+<p>A rule.</p>
+<hr>
+<p>A rule.</p>
+<hr>
+<h2 id="links">Links</h2>
+<p>This is <a href="http://example.com/%22Title%22">an example</a> inline link.</p>
+<h2 id="images">Images</h2>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Octicons-globe.svg/240px-Octicons-globe.svg.png" alt="Globe"></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Here is the <em>text</em> of the <strong>footnote</strong>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 ]]></content:encoded>
     </item>
     
